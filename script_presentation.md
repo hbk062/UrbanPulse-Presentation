@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-**[Présentateur 1] :** Bonjour à tous, nous sommes Taha othmane Karmouche et Derek Lopez Oria, et aujourd'hui, nous allons vous présenter notre projet intitulé **Urban Pulse**, un site web de shopping en ligne destiné principalement aux étudiants du secondaire.
+**[Présentateur 1] :** Bonjour à tous, nous sommes Taha othmane Karmouche et Derek Lopez Oria, et aujourd'hui, nous allons vous présenter notre projet intitulé **Urban Pulse**, un site web de shopping en ligne destiné principalement aux jeunes.
 
 ## **1. Explication du projet**
 
