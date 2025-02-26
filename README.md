@@ -17,11 +17,7 @@ Urban Pulse est une plateforme moderne qui permet aux jeunes utilisateurs de dé
 - **Base de données** : MySQL / SQLite
 - **Hébergement** : Heroku / AWS
 
-## 📂 Organisation du Dépôt
-- `src/` : Contient le code source du projet
-- `Presentation/` : Fichiers de présentation pour le Symposium
-- `docs/` : Documentation technique et guides
-- `README.md` : Ce fichier d’accueil
+
 
 ## 🎯 Objectifs
 Notre mission est de proposer un site web simple et efficace, qui répond aux besoins des étudiants tout en leur offrant une expérience utilisateur de qualité.
