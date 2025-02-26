@@ -4,7 +4,7 @@
 **[Présentateur 1]** : Bonjour à tous, nous sommes Taha Othmane Karmouche, Derek Lopez Oria et Badr el Melouki, et aujourd’hui, nous allons vous présenter notre projet intitulé **Urban Pulse**, un site web de shopping en ligne destiné principalement aux jeunes.  
 
 ## **1. Explication du projet**  
-**[Présentateur 2]** : Notre projet consiste à développer une **plateforme de shopping en ligne** simple, intuitive et adaptée aux jeunes. L’idée est de permettre aux **étudiants de 4e et 5e secondaire** d’accéder à des produits tendance à des prix abordables, tout en leur offrant une expérience utilisateur fluide.  
+**[Présentateur 2]** : Notre projet consiste à développer une **plateforme de shopping en ligne** simple, intuitive et adaptée aux jeunes. L’idée est de permettre aux **jeunes** d’accéder à des produits tendance à des prix abordables, tout en leur offrant une expérience utilisateur fluide.  
 
 ## **2. Le besoin et la justification du projet**  
 **[Présentateur 3]** : Aujourd’hui, les sites de shopping en ligne sont souvent trop complexes ou mal adaptés aux jeunes consommateurs. **Notre objectif** est de créer une solution plus accessible en mettant l’accent sur **une navigation simplifiée et un design attrayant**.  
